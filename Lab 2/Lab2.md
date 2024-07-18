@@ -1,4 +1,4 @@
-# Rust Lab 2 (09/07/2024)
+# Rust Lab 2 (10/07/2024)
 
 ## 1. Write a Rust Program that:
 

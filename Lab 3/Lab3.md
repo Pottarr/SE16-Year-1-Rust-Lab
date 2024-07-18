@@ -94,4 +94,5 @@ let name = name.trim().to_string();
 
 <hr>
 
-Autho: Pottarrพงศ์
+Author: Pottarrพงศ์
+Source: KMITL SE Rust Lab

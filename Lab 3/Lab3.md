@@ -6,7 +6,7 @@ Develop a Rust program to manage inventory in a warehouse. The system  should tr
 
 #### Requirements
 
-1.1  Product Representation: Each product is represented by a tuple: (u32, String, u32) for (ID, name,
+1.1  Product Representation: Each product is represented by a tuple: (u32, String, u32) for (ID, name, quantity).
 1.2 Inventory Management:
 - Use a vector to store the list of products in the warehouse.
 - Implement the following functionalities:
@@ -94,5 +94,5 @@ let name = name.trim().to_string();
 
 <hr>
 
-Author: Pottarrพงศ์
+Author: Pottarrพงศ์  
 Source: KMITL SE Rust Lab

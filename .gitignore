@@ -1,2 +1,5 @@
 *.exe
 *.pdb
+*.rcgu.o
+*.txt
+/Lab 5
